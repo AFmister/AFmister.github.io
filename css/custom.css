@@ -326,7 +326,7 @@ color: #2A4C51;
 @media (max-width: 575.98px) {
 
   p {
-    color: purple;
+    color: #E0E0E0;
   }
 
   .main {
@@ -338,7 +338,7 @@ color: #2A4C51;
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
   p {
-    color: green;
+    color: #E0E0E0;
   }
 
   .main {
@@ -350,28 +350,28 @@ color: #2A4C51;
 /* // Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
   p {
-    color: blue;
+    color: #E0E0E0;
   }
 }
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
   p {
-    color: rgb(255, 0, 200);
+    color: #E0E0E0;
   }
 }
 
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   p {
-    color: grey;
+    color: #E0E0E0;
   }
 }
 
 /* // Extra Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) {
   p {
-    color: #FB079A;
+    color: #E0E0E0;
   }
 }
 
