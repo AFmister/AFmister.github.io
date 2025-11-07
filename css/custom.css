@@ -309,6 +309,7 @@ color: #2A4C51;
             object-fit: cover;
             height: 200px;
             width: 100%;
+            display: block;
         }
         .modal-img, .modal-video {
             width: 100%;
